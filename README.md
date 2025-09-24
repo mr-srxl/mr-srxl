@@ -15,7 +15,7 @@ Hey there! 👋 I'm SRXL, a cybersecurity enthusiast and student. I'm passionate
 * **Web Penetration Testing**
 * **OSINT**
 * **Wi-Fi Hacking**
-* **Red Team Infrastructure**: Experience with **Gophish** for phishing campaigns and **Evilginx** for credential harvesting.
+* **Red Team Infrastructure**: Experience with **Gophish** && **Evilginx** 
 * **C2 Networks**: Knowledge of building and managing Command and Control networks.
 * **Linux**: LPIC-1 certified.
 

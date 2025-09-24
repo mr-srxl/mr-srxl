@@ -1,21 +1,26 @@
-<div align="center"><p style="font-family: cursive; font-size: 50px;">SRXL</p></div>
+<div align="center">
+  <h1 style="font-family: monospace;">SRXL</h1>
+</div>
 
-___
-**About Me**
+---
 
-- Hello to you
-- I am just a student
-- I love learning
-- I love CTF, but my VPN doesn't work sometimes
+### 💻 About Me
 
-___
-``` python
-info = {
-  'status' : 403,
-  'data' :{
-    'hobbies' : ["coding", "book", "hacking", "learning"],
-    'languages' : ["C","Python","PHP", "C++"]
-    'skill' : ["Web Penetration Testing", "Linux Lpic1", "Osint","wifi hacking"], 
-    'currently' : 'learning Red team and linux lpic2'}
-  }
-```
+Hey there! 👋 I'm SRXL, a cybersecurity enthusiast and student. I'm passionate about learning new things, and I love the challenge of CTFs. My primary focus is on **Red Team operations** and **Linux systems**, and I'm currently working toward my **Linux LPIC-2 certification**.
+
+---
+
+### 🛠️ Skills & Interests
+
+| Category | Details |
+| :--- | :--- |
+| **Technical Skills** | **Web Penetration Testing**, **OSINT**, **Wi-Fi Hacking**, Linux (LPIC-1 certified) |
+| **Programming Languages** | C, Python, PHP, C++ |
+| **Hobbies** | Hacking, coding, reading, and continuous learning |
+
+---
+
+<br>
+<div align="center">
+  <p>Feel free to connect with me and check out my projects!</p>
+</div>

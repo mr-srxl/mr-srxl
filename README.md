@@ -6,17 +6,36 @@
 
 ### 💻 About Me
 
-Hey there! 👋 I'm SRXL, a cybersecurity enthusiast and student. I'm passionate about learning new things, and I love the challenge of CTFs. My primary focus is on **Red Team operations** and **Linux systems**, and I'm currently working toward my **Linux LPIC-2 certification**.
+Hey there! 👋 I'm SRXL, a cybersecurity enthusiast and student. I'm passionate about learning new things, and I love the challenge of CTFs. My primary focus is on **Red Team operations** and **Linux systems**.
 
 ---
 
 ### 🛠️ Skills & Interests
 
-| Category | Details |
-| :--- | :--- |
-| **Technical Skills** | **Web Penetration Testing**, **OSINT**, **Wi-Fi Hacking**, Linux (LPIC-1 certified) |
-| **Programming Languages** | C, Python, PHP, C++ |
-| **Hobbies** | Hacking, coding, reading, and continuous learning |
+* **Web Penetration Testing**
+* **OSINT**
+* **Wi-Fi Hacking**
+* **Red Team Infrastructure**: Experience with **Gophish** for phishing campaigns and **Evilginx** for credential harvesting.
+* **C2 Networks**: Knowledge of building and managing Command and Control networks.
+* **Linux**: LPIC-1 certified.
+
+---
+
+### 👨‍💻 Programming Languages
+
+* C
+* Python
+* PHP
+* C++
+
+---
+
+### 📚 Hobbies
+
+* Hacking
+* Coding
+* Reading
+* Continuous Learning
 
 ---
 

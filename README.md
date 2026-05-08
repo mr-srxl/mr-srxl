@@ -2,9 +2,8 @@
   <h1 style="font-family: monospace;">SRXL</h1>
   <p><em>Red Team Operator • Malware Developer • CTF Player</em></p>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURUSERNAME)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YOURUSERNAME)
-  [![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://yourblog.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sina-rezaei-srxl)
+
 </div>
 
 ---
@@ -18,7 +17,7 @@ I love building custom tools, breaking into hardened environments, and helping t
 
 ---
 
-### 📚 Certifications & Training
+### 📚 Certifications & Training (Self study)
 
 | Area | Credentials |
 |------|-------------|
@@ -47,7 +46,7 @@ I love building custom tools, breaking into hardened environments, and helping t
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-srxl&show_icons=true&theme=radical" alt="SRXL's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-srxl&show_icons=true&theme=radical" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-srxl&theme=radical" alt="GitHub Streak" />
 </div>
 

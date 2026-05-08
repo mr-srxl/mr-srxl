@@ -46,7 +46,7 @@ I love building custom tools, breaking into hardened environments, and helping t
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-srxl&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-srxl&show_icons=true&theme=radical" alt="" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-srxl&theme=radical" alt="GitHub Streak" />
 </div>
 

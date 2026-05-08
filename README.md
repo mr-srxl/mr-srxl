@@ -1,45 +1,66 @@
 <div align="center">
   <h1 style="font-family: monospace;">SRXL</h1>
+  <p><em>Red Team Operator • Malware Developer • CTF Player</em></p>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURUSERNAME)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YOURUSERNAME)
+  [![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://yourblog.com)
 </div>
 
 ---
 
-### 💻 About Me
+### 👨‍💻 About Me
 
-Hey there! 👋 I'm SRXL, a cybersecurity enthusiast and student. I'm passionate about learning new things, and I love the challenge of CTFs. My primary focus is on **Red Team operations** and **Linux systems**.
+I’m a cybersecurity professional deeply focused on **Red Teaming**, **malware development**, and **adversary simulation**.  
+I love building custom tools, breaking into hardened environments, and helping teams improve their defensive posture through real‑world attack scenarios.
 
----
-
-### 🛠️ Skills & Interests
-
-* **Web Penetration Testing**
-* **OSINT**
-* **Wi-Fi Hacking**
-* **Red Team Infrastructure**: Experience with **Gophish** && **Evilginx** 
-* **C2 Networks**: Knowledge of building and managing Command and Control networks.
-* **Linux**: LPIC-1 certified.
+> *“If you know the enemy and know yourself, you need not fear the result of a hundred battles.”* — Sun Tzu
 
 ---
 
-### 👨‍💻 Programming Languages
+### 📚 Certifications & Training
 
-* C
-* Python
-* PHP
-* C++
-
----
-
-### 📚 Hobbies
-
-* Hacking
-* Coding
-* Reading
-* Continuous Learning
+| Area | Credentials |
+|------|-------------|
+| **Red Team / Adversary Simulation** | CRTO I & II, CTRP, MalDevAcademy, Malware on Steroids (Dark Vortex), Windows Malware Techniques (CodeMachine), Attack Simulation (BlackHills InfoSec) |
+| **Web & Infrastructure** | HTB CWEE, HTB CAPE, HTB CPTS, CCNA |
+| **General Security** | Applied Purple Teaming (Kent Ickler & Jordan Drysdale), Red Team & OPSEC (Dark Vortex), Sektor7 Malware Development |
 
 ---
 
-<br>
+### ⚙️ Skills & Specializations
+
+- **Red Team Operations**: C2 infrastructure (Cobalt Strike, Sliver, Mythic), phishing campaigns (GoPhish, Evilginx), lateral movement, and evasion.
+- **Malware Development**: Custom loaders, droppers, reflective DLL injection, indirect syscalls, EDR/AV evasion.
+- **Web Application Security**: OWASP Top 10, API security, modern auth attacks.
+- **OSINT & Reconnaissance**: Passive and active intelligence gathering, social media recon, wireless network auditing.
+- **Linux Proficiency**: LPIC‑1 certified, comfortable with server hardening and scripting.
+
+---
+
+### 💻 Languages
+
+`C` `C++` `Python` `PHP` `x86/x64 Assembly` `PowerShell` `Bash`
+
+---
+
+### 📈 GitHub Stats
+
 <div align="center">
-  <p>Feel free to connect with me and check out my projects!</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-srxl&show_icons=true&theme=radical" alt="SRXL's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-srxl&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🎯 Current Focus
+
+- Enhancing my public **toolset for Red Team engagements** (C2 extensions, post‑exploitation scripts).
+- Exploring **advanced kernel‑mode malware** and **UEFI bootkits**.
+
+---
+
+<div align="center">
+  <p>Feel free to connect and collaborate!</p>
+  <p>⚡ <b>Always learning, always building.</b></p>
 </div>

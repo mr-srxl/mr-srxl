@@ -55,7 +55,7 @@ I love building custom tools, breaking into hardened environments, and helping t
 ### 🎯 Current Focus
 
 - Enhancing my public **toolset for Red Team engagements** (C2 extensions, post‑exploitation scripts).
-- Exploring **advanced kernel‑mode malware** and **UEFI bootkits**.
+
 
 ---
 

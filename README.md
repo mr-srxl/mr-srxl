@@ -11,9 +11,6 @@
 ### 👨‍💻 About Me
 
 I’m a cybersecurity professional deeply focused on **Red Teaming**, **malware development**, and **adversary simulation**.  
-I love building custom tools, breaking into hardened environments, and helping teams improve their defensive posture through real‑world attack scenarios.
-
-> *“If you know the enemy and know yourself, you need not fear the result of a hundred battles.”* — Sun Tzu
 
 ---
 

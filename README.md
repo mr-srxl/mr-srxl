@@ -27,7 +27,7 @@ I’m a cybersecurity professional deeply focused on **Red Teaming**, **malware 
 ### ⚙️ Skills & Specializations
 
 - **Red Team Operations**: C2 infrastructure (Cobalt Strike, Sliver, Mythic), phishing campaigns (GoPhish, Evilginx), lateral movement, and evasion.
-- **Malware Development**: Custom loaders, droppers, reflective DLL injection, indirect syscalls, EDR/AV evasion.
+- **Malware Development**: Custom loaders, droppers, reflective DLL injection, EDR/AV evasion.
 - **Web Application Security**: OWASP Top 10, API security, modern auth attacks.
 - **OSINT & Reconnaissance**: Passive and active intelligence gathering, social media recon, wireless network auditing.
 - **Linux Proficiency**: LPIC‑1 certified, comfortable with server hardening and scripting.
